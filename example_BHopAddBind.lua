@@ -2,7 +2,8 @@
 Menu.Spacing()
 Menu.Separator()
 Menu.Spacing()
-Menu.KeyBind("BHop Add New Key", "iBHopAddBind", 0)
+Menu.KeyBind("BHop Add New Key", "iBHopAddBi
+    ", 0)
 
 local IN_JUMP = 1 -- bit of IN_JUMP for cmd.buttons
 
